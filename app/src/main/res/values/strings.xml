@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clifford Kiprotich Koech Promotional App</string>
+    <string name="heading">Welcome to Clifford Kiprotich Koech Promotional App</string>
+    <string name="btn_main">CLICK Clifford Koech</string>
+    <string name="touch_hint">Touch and hold this panel</string>
+    <string name="toast_click">Hello from Clifford Kiprotich Koech</string>
+    <string name="toast_long_click">Long CLICK detected by Clifford Koech SYSTEM</string>
+    <string name="toast_touch_down">Clifford SYSTEM: touch down</string>
+    <string name="toast_touch_up">Clifford SYSTEM: touch released</string>
+</resources>
